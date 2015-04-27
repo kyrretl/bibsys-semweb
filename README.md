@@ -6,7 +6,7 @@ Frode Pettersen, Senior Engineer/Project Manager, Norwegian University of Scienc
 Kyrre Traavik Låberg, Senior Engineer, University Library of Oslo (UiO),
 Bengt Øieroset, Special Librarian, University Library of Tromsø (UiT),
 Elise Conradi, Project Manager, National Library of Norway (NB),
-Jan Erik Garshol, Senior Advisor, Project Leader, Referent, BIBSYS
+Jan Erik Garshol, Senior Advisor, Project Leader, Referent, BIBSYS,
 Asbjørn Risan, Advisor, BIBSYS
 
 ENGLISH DESCRIPTION, NORWEGIAN DESCRIPTION OF PROJECT AT END OF DOCUMENT
