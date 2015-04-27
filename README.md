@@ -1,17 +1,19 @@
 # bibsys-semweb
 
-PROJECT MEMBERS
-Tarje Sælen Lavik, Special Librarian, University Library of Bergen (UiB),
-Frode Pettersen, Senior Engineer/Project Manager, Norwegian University of Science and Technology Library (NTNU),
-Kyrre Traavik Låberg, Senior Engineer, University Library of Oslo (UiO),
-Bengt Øieroset, Special Librarian, University Library of Tromsø (UiT),
-Elise Conradi, Project Manager, National Library of Norway (NB),
-Jan Erik Garshol, Senior Advisor, Project Leader, Referent, BIBSYS,
-Asbjørn Risan, Advisor, BIBSYS
+BIBSYS Library Database in Semantic Web  
+
+PROJECT MEMBERS  
+Tarje Sælen Lavik, Special Librarian, University Library of Bergen (UiB),  
+Frode Pettersen, Senior Engineer/Project Manager, Norwegian University of Science and Technology Library (NTNU),  
+Kyrre Traavik Låberg, Senior Engineer, University Library of Oslo (UiO),  
+Bengt Øieroset, Special Librarian, University Library of Tromsø (UiT),  
+Elise Conradi, Project Manager, National Library of Norway (NB),  
+Jan Erik Garshol, Senior Advisor, Project Leader, Referent, BIBSYS,  
+Asbjørn Risan, Advisor, BIBSYS  
 
 ENGLISH DESCRIPTION, NORWEGIAN DESCRIPTION OF PROJECT AT END OF DOCUMENT
 
-GOALS OF THE PROJECT
+GOALS OF THE PROJECT  
 The Norwegian academic and research libraries manage many information
 resources which support the education and research process.
 Semantic Web technology can help increase the relevance and
@@ -27,7 +29,7 @@ now to build on this work by clarifying how we can best relate
 the Library Database and current Authority File to the Semantic Web using
 Linked data, thus providing content in a new format (RDF).
 
-PROJECT DESCRIPTION
+PROJECT DESCRIPTION  
 The Library Database data set has been available on data.norge.no as complete
 MARC records since 2011, and licensed with Norwegian License for Public
 Data (NLOD) since 2013. We are experiencing that communities outside the library sector
@@ -64,7 +66,7 @@ expertise in Semantic Web Technology. The aim is to develop a powerful
 knowledge resource service that helps the student and researcher to effectively find
 relevant information.
 
-PROJECT DELIVERABLES:
+PROJECT DELIVERABLES  
 1. Specify the relevant stakeholders of the Library Database - Candidates
 may be:
   a. The National Library
@@ -108,9 +110,9 @@ be used as a basis for BIBSYS and the Advisory Group to decide how we should rea
 the Library Database and Authority File as RDF.
 
 
-BIBSYS Biblioteksbase i semantisk web
+BIBSYS Biblioteksbase i semantisk web  
 
-MÅL FOR PROSJEKTET
+MÅL FOR PROSJEKTET  
 Norske fag- og forskningsbibliotek forvalter mange informasjonsressurser som
 skal understøtte utdanning- og forskningsprosessen. Semantisk webteknologi kan
 bidra til å øke relevansen og verdien av Bibliotekbasen og spesialsamlinger, ved å
@@ -126,7 +128,7 @@ nå å bygge videre på dette arbeidet ved å avklare hvordan vi best kan koble
 Bibliotekbasen og aktuelle autoritetsregistre til den semantiske web ved hjelp av
 lenkede data, og dermed tilby innholdet i et nytt format (RDF).
 
-PROSJEKTBESKRIVELSE
+PROSJEKTBESKRIVELSE  
 Datasettet Bibliotekbasen har vært tilgjengelig på data.norge.no som komplette
 MARC-poster siden 2011, og er fra 2013 lisensiert med Norsk lisens for offentlige
 data (NLOD). Vi opplever i stadig sterkere grad at miljøer utenfor biblioteksektoren
@@ -166,7 +168,7 @@ kompetanse innen semantisk webteknologi. Målet er å utvikle en kraftfull
 kunnskapsressurstjeneste som hjelper studenten og forskeren til å effektivt finne
 relevant informasjon.
 
-PROSJEKTLEVERANSER
+PROSJEKTLEVERANSER  
 1. Konkretisere aktuelle interessenter av Bibliotekbasen, hvor aktuelle kandidater
 kan være:
   a. Nasjonalbiblioteket
