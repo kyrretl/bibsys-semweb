@@ -108,9 +108,9 @@ minimum ontology, which is openly available.
 6. Provide a final report describing the project's work and deliverables. This final report will
 be used as a basis for BIBSYS and the Advisory Group to decide how we should realize
 the Library Database and Authority File as RDF.  
-
-<p> </p>
-<p> </p>
+&nbsp;  
+&nbsp;  
+&nbsp;  
 NORWEGIAN DESCRIPTION BELOW
 
 BIBSYS Biblioteksbase i semantisk web  
