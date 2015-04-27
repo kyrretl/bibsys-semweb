@@ -111,6 +111,7 @@ the Library Database and Authority File as RDF.
 &nbsp;  
 &nbsp;  
 &nbsp;  
+
 NORWEGIAN DESCRIPTION BELOW
 
 BIBSYS Biblioteksbase i semantisk web  
