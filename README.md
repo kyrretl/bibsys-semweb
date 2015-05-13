@@ -174,24 +174,24 @@ relevant informasjon.
 
 PROSJEKTLEVERANSER  
 1. Konkretisere aktuelle interessenter av Bibliotekbasen, hvor aktuelle kandidater
-kan være:
-  a. Nasjonalbiblioteket
-  b. BIBSYS og Rådgivende gruppe
-  c. Ex Libris
-  d. Folkebibliotekene (Deichman)
-  e. CRIStin
-  f. NSD
-  g. SSB
-  h. Alma
-  i. Oria
-  j. Nasjonalt autoritetsregister
-    i. ISNI
-    ii. VIAF
-    iii. ORCID
-  k. Tesaurusprosjekt (NB/UiO)
-  l. Web Dewey
-  m. DBpedia
-  n. GeoNames
+kan være:  
+  a. Nasjonalbiblioteket  
+  b. BIBSYS og Rådgivende gruppe  
+  c. Ex Libris  
+  d. Folkebibliotekene (Deichman)  
+  e. CRIStin  
+  f. NSD  
+  g. SSB  
+  h. Alma  
+  i. Oria  
+  j. Nasjonalt autoritetsregister  
+    i. ISNI  
+    ii. VIAF  
+    iii. ORCID  
+  k. Tesaurusprosjekt (NB/UiO)  
+  l. Web Dewey  
+  m. DBpedia  
+  n. GeoNames  
 
 2. Utarbeide maksimalt tre use cases fra hver av interessentene. Dette vil danne
 et grunnlag for hvordan en RDF-representasjon bør realiseres.
