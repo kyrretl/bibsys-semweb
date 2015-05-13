@@ -4,7 +4,7 @@ BIBSYS Library Database in Semantic Web
 
 PROJECT MEMBERS  
 Tarje Sælen Lavik, Special Librarian, University Library of Bergen (UiB),  
-Frode Pettersen, Senior Engineer/Project Manager, Norwegian University of Science and Technology Library (NTNU),  
+Frode Pettersen, Senior Engineer, Norwegian University of Science and Technology Library (NTNU),  
 Kyrre Traavik Låberg, Senior Engineer, University Library of Oslo (UiO),  
 Bengt Øieroset, Special Librarian, University Library of Tromsø (UiT),  
 Elise Conradi, Project Manager, National Library of Norway (NB),  
@@ -68,24 +68,24 @@ relevant information.
 
 PROJECT DELIVERABLES  
 1. Specify the relevant stakeholders of the Library Database - Candidates
-may be:
-  a. The National Library
-  b. BIBSYS and Advisory Group
-  c. Ex Libris
-  d. Public libraries (Deichman)
-  e. CRIStin
-  f. NSD
-  g. SSB
-  h. Alma
-  in. Oria
-  j. National Authority File
-    in. ISNI
-    ii. VIAF
-    iii. ORCID
-  k. Thesaurus Project (NB / University of Oslo)
-  l. Web Dewey
-  m. DBpedia
-  n. Geonames
+may be:  
+  a. The National Library  
+  b. BIBSYS and Advisory Group  
+  c. Ex Libris  
+  d. Public libraries (Deichman)  
+  e. CRIStin  
+  f. NSD  
+  g. SSB  
+  h. Alma  
+  in. Oria  
+  j. National Authority File  
+    in. ISNI  
+    ii. VIAF  
+    iii. ORCID  
+  k. Thesaurus Project (NB / University of Oslo)  
+  l. Web Dewey  
+  m. DBpedia  
+  n. Geonames  
 
 
 2. Prepare a maximum of three use cases from each of the stakeholders. This will form
